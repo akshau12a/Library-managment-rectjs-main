@@ -1,6 +1,6 @@
 <h2> Library Managment System using Reactjs</h2>
 <p>A system which allows the user to see the book and search the required book</p>
- :boom: <b><a href="https://library-managment-reactjs.netlify.app/">Live Demo</a><b />
+ :boom: <b><>Live Demo</a><b />
  
  <br /> 
  <br />
